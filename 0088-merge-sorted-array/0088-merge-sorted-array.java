@@ -1,26 +1,9 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int i = m - 1; // Pointer for nums1 valid elements
-        int j = n - 1; // Pointer for nums2
-        int k = m + n - 1; // Pointer for placement in nums1
-
-        // Compare elements from the back and place the larger one at nums1[k]
-        while (i >= 0 && j >= 0) {
-            if (nums1[i] > nums2[j]) {
-                nums1[k] = nums1[i];
-                i--;
-            } else {
-                nums1[k] = nums2[j];
-                j--;
-            }
-            k--;
+        for(int j=0,i=m;j<n;j++){
+            nums1[i]=nums2[j];
+            i++;
         }
-
-        // Copy remaining elements from nums2 if any left
-        while (j >= 0) {
-            nums1[k] = nums2[j];
-            j--;
-            k--;
-        }
+        Arrays.sort(nums1);
     }
 }
