@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3345-smallest-divisible-digit-product-i) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
