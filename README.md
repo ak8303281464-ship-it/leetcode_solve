@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0217-contains-duplicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0217-contains-duplicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
