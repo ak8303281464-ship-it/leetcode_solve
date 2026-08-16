@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
