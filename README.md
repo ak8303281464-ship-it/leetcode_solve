@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0628-maximum-product-of-three-numbers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0704-binary-search) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
@@ -114,6 +116,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
