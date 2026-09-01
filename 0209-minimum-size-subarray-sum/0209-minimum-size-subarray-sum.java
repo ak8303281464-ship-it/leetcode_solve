@@ -17,11 +17,9 @@ class Solution {
 
 
     }
-    if(max==Integer.MAX_VALUE){
-        return 0;
-    }
+    
 
-    return max;
+    return max == Integer.MAX_VALUE ? 0 : max;
 
 
     }
