@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
+| [3903-smallest-stable-index-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
+| [3903-smallest-stable-index-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
