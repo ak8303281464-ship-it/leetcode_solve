@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
