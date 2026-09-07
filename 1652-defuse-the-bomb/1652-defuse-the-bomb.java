@@ -12,14 +12,14 @@ class Solution {
             start = n + k;
             end = n - 1;
         }
-        int windowSum = 0;
+        int Sum = 0;
         for (int i = start; i <= end; i++) {
-            windowSum += code[i];
+            Sum += code[i];
         }
         for (int i = 0; i < n; i++) {
-            result[i] = windowSum;
-            windowSum -= code[start % n];
-            windowSum += code[(end + 1) % n];
+            result[i] = Sum;
+            Sum -= code[start % n];
+            Sum += code[(end + 1) % n];
             start++;
             end++;
         }
