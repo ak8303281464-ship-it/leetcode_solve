@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1652-defuse-the-bomb) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
