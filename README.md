@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1796-second-largest-digit-in-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0224-basic-calculator) |
+| [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
