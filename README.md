@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -219,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
