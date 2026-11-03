@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2090-k-radius-subarray-averages) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
