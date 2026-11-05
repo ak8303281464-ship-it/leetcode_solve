@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1652-defuse-the-bomb) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
