@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -247,4 +249,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0202-happy-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
