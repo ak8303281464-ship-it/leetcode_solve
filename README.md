@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1882-process-tasks-using-servers) |
 | [2090-k-radius-subarray-averages](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2090-k-radius-subarray-averages) |
 | [2747-count-zero-request-servers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3693-climbing-stairs-ii) |
