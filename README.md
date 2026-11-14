@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2090-k-radius-subarray-averages) |
 | [2747-count-zero-request-servers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -204,12 +205,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2090-k-radius-subarray-averages) |
 | [2747-count-zero-request-servers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
