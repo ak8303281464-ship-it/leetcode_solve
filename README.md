@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1652-defuse-the-bomb](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1652-defuse-the-bomb) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0940-distinct-subsequences-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3693-climbing-stairs-ii) |
 ## Minimax
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3903-smallest-stable-index-i) |
 ## Stack
