@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0567-permutation-in-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1768-merge-strings-alternately) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0234-palindrome-linked-list) |
 ## Geometry
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
