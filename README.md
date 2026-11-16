@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0224-basic-calculator) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0083-remove-duplicates-from-sorted-list) |
