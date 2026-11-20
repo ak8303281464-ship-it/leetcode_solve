@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1768-merge-strings-alternately) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0844-backspace-string-compare) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2390-removing-stars-from-a-string) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2390-removing-stars-from-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
