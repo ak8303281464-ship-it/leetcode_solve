@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2390-removing-stars-from-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3813-vowel-consonant-score](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3813-vowel-consonant-score) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
 | [3813-vowel-consonant-score](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3813-vowel-consonant-score) |
 ## Ordered Set
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2390-removing-stars-from-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
 |  |
