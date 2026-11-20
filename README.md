@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0904-fruit-into-baskets) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0844-backspace-string-compare) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2390-removing-stars-from-a-string) |
