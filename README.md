@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3477-fruits-into-baskets-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2747-count-zero-request-servers](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2390-removing-stars-from-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3813-vowel-consonant-score](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3813-vowel-consonant-score) |
 ## Segment Tree
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -329,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
