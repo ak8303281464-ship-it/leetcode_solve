@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1796-second-largest-digit-in-a-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/2390-removing-stars-from-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ak8303281464-ship-it/leetcode_solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
